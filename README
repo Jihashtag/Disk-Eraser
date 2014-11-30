@@ -1,8 +1,8 @@
-This tool is made to erase (completely) the memomry on a HD
+This tool is made to erase (completely) the memory on a HD
 
 To use it on the empty space of your disk :
 	- Create a file taking all the available space
-	- Execute "./erase" and your options on the file
+	- Execute "./erase" on the file (with your options)
 
 To use it on an hard drive (your data won't be recoverable) :
 	- Double check the HD you want to erase (no warnings)
