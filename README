@@ -1,0 +1,10 @@
+This tool is made to erase (completely) the memomry on a HD
+
+To use it on the empty space of your disk :
+	- Create a file taking all the available space
+	- Execute "./erase" and your options on the file
+
+To use it on an hard drive (your data won't be recoverable) :
+	- Double check the HD you want to erase (no warnings)
+	- Execute erase.sh with your options
+	- The disk will be format as MS/DOS with 1 FAT partition
